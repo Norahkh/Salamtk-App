@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App11.View.Page3"
+             Title="المستشفيات">
+
+  <ContentPage.Content>
+    <StackLayout HorizontalOptions="Fill">
+
+      <Button Text="إضافة مستشفى" Clicked="Add_Button_Clicked"/>
+
+      <Button Text="بحث عن مستشفى" Clicked="Search_Button_Clicked"/>
+
+    </StackLayout>
+   
+
+  </ContentPage.Content>
+</ContentPage>

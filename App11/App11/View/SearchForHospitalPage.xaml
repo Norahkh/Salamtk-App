@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App11.View.SearchForHospitalPage">
+
+
+  <ContentPage.Content>
+    <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="Fill">
+
+      <Label x:Name="messageLabel" HorizontalOptions="Center"/>
+      <Label Text="اسم المستشفى" />
+      <Entry  Text="{Binding Search}" Placeholder="الرجاء ادخال اسم المستشفى" />
+      <Button Text="بحث" Clicked="Search_Clicked"/>
+
+      <ListView x:Name="Result"
+             ItemsSource="{Binding HosList}"
+        ItemSelected="ItemClicked" HorizontalOptions="Fill">
+
+        <ListView.Header>
+          <StackLayout Padding="5,5,0,5" BackgroundColor="#cccccc" Orientation="Horizontal" HorizontalOptions="Fill"  VerticalOptions="StartAndExpand">
+            <Label Text="اسم المستشفى"  FontAttributes="Italic" FontSize="10" Margin="10" HorizontalTextAlignment="Center" HorizontalOptions="Fill"/>
+            <Label Text="المدينة" FontAttributes="Italic" FontSize="10" Margin="10" HorizontalTextAlignment="Center" HorizontalOptions="Fill"/>
+          </StackLayout>
+        </ListView.Header>
+
+
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+
+              <ViewCell.View>
+                <StackLayout Padding="10,5,0,5" Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                  
+                  <Label Text="{Binding Name}" Margin="10" />
+                  
+                  <Label Text="{Binding City}" Margin="10" />
+                </StackLayout>
+              </ViewCell.View>
+            </ViewCell>
+          </DataTemplate>
+          </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+
+  </ContentPage.Content>
+</ContentPage>

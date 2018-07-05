@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App11.View.Page1">
+
+
+
+
+  <ContentPage.ToolbarItems>
+    
+    <ToolbarItem Text="التسجيل في البرنامج" Clicked="Signup_Button_Clicked" />
+  </ContentPage.ToolbarItems>
+
+
+  
+
+  <ContentPage.Content>
+    <StackLayout VerticalOptions="StartAndExpand">
+
+      <Label Text="اسم المستخدم" />
+      <Entry  Text="{Binding Email}" Placeholder="Email" />
+      
+ 
+      <Label Text="كلمة السر"/>
+      <Entry  Text="{Binding Password}" Placeholder="Password" />
+         <Label x:Name="messageLabel" HorizontalOptions="Center"/>
+
+
+      <Button Text="تسجيل دخول" Clicked="Sign_In_Clicked"/>
+
+    </StackLayout>
+
+  </ContentPage.Content>
+</ContentPage>

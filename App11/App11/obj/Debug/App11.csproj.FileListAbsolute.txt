@@ -1,0 +1,118 @@
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.csproj.App.config
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.View.Main.xaml.g.cs
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.View.Page1.xaml.g.cs
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.View.moa9el.MoaMainPage.xaml.g.cs
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.View.morsel.MorMainPage.xaml.g.cs
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.View.morsel.MorMyOrders.xaml.g.cs
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\App11.dll.config
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\App11.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\App11.pdb
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Newtonsoft.Json.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Plugin.SecureStorage.Abstractions.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Plugin.SecureStorage.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\System.Net.Http.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Newtonsoft.Json.xml
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Plugin.SecureStorage.pdb
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Plugin.SecureStorage.xml
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Plugin.SecureStorage.Abstractions.pdb
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Plugin.SecureStorage.Abstractions.xml
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\System.Net.Http.xml
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.dll
+c:\users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.pdb
+C:\Users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.csprojResolveAssemblyReference.cache
+C:\Users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.View.SignupPage.xaml.g.cs
+C:\Users\smo\documents\visual studio 2015\Projects\App11\App11\App11\obj\Debug\App11.dll.mdb
+C:\Users\smo\documents\visual studio 2015\Projects\App11\App11\App11\bin\Debug\App11.dll.mdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\App11.dll.config
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\App11.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\App11.pdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Mono.Android.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Plugin.SecureStorage.Abstractions.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Plugin.SecureStorage.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\System.Net.Http.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\System.Spatial.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Mono.Android.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Plugin.SecureStorage.pdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Plugin.SecureStorage.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Plugin.SecureStorage.Abstractions.pdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Plugin.SecureStorage.Abstractions.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\System.Net.Http.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\System.Spatial.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.csproj.App.config
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.Main.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.Page1.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.Page2.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.Page3.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.AddDoctorPage.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.SearchForDoctorPage.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.AddHospitalPage.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.SearchForHospitalPage.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.RateDoctorPage.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.RateHospitalPage.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.SignUpPage.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.ViewDoctorPage.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.View.ViewHospitalPage.xaml.g.cs
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.dll
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.pdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.csprojResolveAssemblyReference.cache
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.dll.mdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\App11.dll.mdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\obj\Debug\App11.dll.mdb
+C:\Users\smo\Documents\Visual Studio 2015\Projects\App11 - Copy\App11\App11\bin\Debug\App11.dll.mdb

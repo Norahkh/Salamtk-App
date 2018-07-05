@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App11.View.SignUpPage">
+  <ContentPage.Content>
+    <StackLayout VerticalOptions="StartAndExpand">
+      <Label x:Name="messageLabel" Text="Sign Up" HorizontalOptions="Center"/>
+
+      <Label Text="الاسم" />
+      <Entry Text="{Binding Name}" Placeholder="الاسم" />
+      <Label Text="كلمة السر" />
+      <Entry Text="{Binding Password}" IsPassword="true" />
+      <Label Text="البريد" />
+      <Entry Text="{Binding Email}" Placeholder="Email" />
+      <Label Text="المدينة" />
+      <Entry Text="{Binding City}" Placeholder="City" />
+      <Label Text="رثم الجوال" />
+      <Entry Text="{Binding Mobile}" Placeholder="Mobile" />
+      <Button Text="Sign Up" Clicked="Signup_Button_Clicked"/>
+    </StackLayout>
+  </ContentPage.Content>
+
+</ContentPage>

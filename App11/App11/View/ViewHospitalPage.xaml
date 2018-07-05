@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App11.View.ViewHospitalPage">
+ 
+  <ContentPage.Content>
+    <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="Fill">
+  <Label x:Name="messageLabel" Text="عرض مستشفى" HorizontalOptions="Center"/>
+
+  <Label Text="أسم المستشفى" />
+  <Label x:Name="Name" />
+
+  <Label Text="المدينة" />
+  <Label  x:Name="City" />
+      <Label Text="تقييم المستشفى" />
+      <ListView x:Name="Result"
+             ItemsSource="{Binding FullHos}"
+                 ItemSelected="ItemClicked"
+         HorizontalOptions="Fill"
+        VerticalOptions="StartAndExpand">
+
+        <ListView.Header>
+          <StackLayout Padding="1,1,1,1" BackgroundColor="#cccccc" Orientation="Horizontal" HorizontalOptions="Fill"  VerticalOptions="StartAndExpand">
+            <Label Text="المعيار"  FontAttributes="Italic" FontSize="10" Margin="1" HorizontalTextAlignment="Start" HorizontalOptions="Fill"/>
+            <Label Text="عدد الاجابات ب (نعم)" FontAttributes="Italic" FontSize="10" Margin="1" HorizontalTextAlignment="Center" HorizontalOptions="Fill"/>
+            <Label Text="عدد الاجابات ب (لا)" FontAttributes="Italic" FontSize="10" Margin="1" HorizontalTextAlignment="End" HorizontalOptions="Fill"/>
+
+          </StackLayout>
+        </ListView.Header>
+
+
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <ViewCell.View>
+                <StackLayout Orientation="Vertical">
+               
+                  <Label  x:Name="QN" Text="{Binding quis}" />
+            
+                  <Label x:Name="CountYes" Text="{Binding CountYes}" />
+   
+                  <Label x:Name="CountNo" Text="{Binding CountNo}" />
+                  </StackLayout>
+              </ViewCell.View>
+            </ViewCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      
+        <ListView.Footer>
+          <StackLayout Padding="1,1,1,1" BackgroundColor="#cccccc" Orientation="Horizontal" HorizontalOptions="Fill">
+              <Button Text="تقييم المستشفى" Clicked="RateClicked"/>
+          </StackLayout>
+        </ListView.Footer>
+      </ListView>
+      
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

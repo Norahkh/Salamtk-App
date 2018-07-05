@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App11.View.AddHospitalPage">
+  <ContentPage.Content>
+    <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="Fill">
+      <Label x:Name="messageLabel" Text="اضافة مستشفى" HorizontalOptions="Center"/>
+
+      <Label Text="أسم المستشفى" />
+      <Entry Text="{Binding Name}" Placeholder="ادخل اسم المستشفى" />
+      <Label Text="المدينة" />
+      <Entry Text="{Binding City}" Placeholder="ادخل المدينة" />
+
+      <Button Text="اضافة المستشفى" Clicked="AddClicked"/>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>
